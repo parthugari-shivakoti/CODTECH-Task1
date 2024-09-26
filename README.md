@@ -32,3 +32,9 @@ The application supports the following key activities:
 - **CSS:** Styles the application to enhance user experience and visual appeal.
 - **JavaScript:** Implements the functionality for adding, completing, and deleting tasks.
 
+## OUTPUT OF THE PROJECT
+
+![Screenshot 2024-09-26 230910](https://github.com/user-attachments/assets/82cc5730-7b8a-469e-8a83-05f3b96ec176)
+![Screenshot 2024-09-26 231054](https://github.com/user-attachments/assets/f39c7255-fe91-43b1-9931-ad7ee4046860)
+
+
